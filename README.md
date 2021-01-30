@@ -1,6 +1,8 @@
-**Bacharelado em Ciência da Computação
-Programação Orientada a Objetos
-Professores: Bernardo Copstein e Isabel H. Manssour**
+**Bacharelado em Ciência da Computação**
+
+**Programação Orientada a Objetos**
+
+**Professores: Bernardo Copstein e Isabel H. Manssour**
 
 # Trabalho Final
 
